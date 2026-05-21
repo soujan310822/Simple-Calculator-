@@ -10,7 +10,7 @@ public class textField extends Buttons implements ActionListener {
     double result = 0;
     char operator;
 
-    //constructor does my shit here again
+    
     public textField() {
         super.panel1.add(display);
         this.display.setBounds(10, 10, 368, 130);
